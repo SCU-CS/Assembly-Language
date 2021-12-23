@@ -1,4 +1,4 @@
-# 仓库介绍
+# 汇编语言程序设计
 The template of course repository
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SCU-CS/Assembly-Language)
